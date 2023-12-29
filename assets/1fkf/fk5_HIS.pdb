@@ -1,0 +1,195 @@
+USER  MOD reduce.4.9.210817 H: found=0, std=0, add=69, rem=0, adj=3
+USER  MOD reduce.4.9.210817 removed 0 hydrogens (0 hets)
+USER  MOD -----------------------------------------------------------------
+USER  MOD scores for adjustable sidechains, with "set" totals for H,N and Q
+USER  MOD "o" means original, "f" means flipped, "180deg" is methyl default
+USER  MOD "!" flags a clash with an overlap of 0.40A or greater
+USER  MOD flip categories: "K"=keep, "C"=clashes, "X"=uncertain, "F"=flip
+USER  MOD Single : A 108 FK5 O10 :   rot  162:sc=    1.69
+USER  MOD Single : A 108 FK5 O12 :   rot   11:sc=    0.43
+USER  MOD Single : A 108 FK5 O6  :   rot   -3:sc=    1.43
+USER  MOD -----------------------------------------------------------------
+HETATM    1  C1  FK5 A 108      19.964  28.622  21.793  1.00  9.41           C
+HETATM    2  C2  FK5 A 108      18.591  29.242  21.936  1.00  6.57           C
+HETATM    3  C3  FK5 A 108      17.938  29.352  20.560  1.00  5.00           C
+HETATM    4  C4  FK5 A 108      18.516  30.510  19.760  1.00  6.48           C
+HETATM    5  C5  FK5 A 108      18.261  31.813  20.491  1.00  5.95           C
+HETATM    6  C6  FK5 A 108      18.979  31.722  21.823  1.00  5.93           C
+HETATM    7  C8  FK5 A 108      17.895  30.641  23.795  1.00  5.76           C
+HETATM    8  C9  FK5 A 108      17.727  31.953  24.508  1.00  7.21           C
+HETATM    9  C10 FK5 A 108      18.806  32.419  25.509  1.00  6.69           C
+HETATM   10  C11 FK5 A 108      19.432  31.287  26.330  1.00  7.95           C
+HETATM   11  C12 FK5 A 108      20.773  31.749  26.905  1.00  8.60           C
+HETATM   12  C13 FK5 A 108      21.707  32.472  25.896  1.00 12.00           C
+HETATM   13  C14 FK5 A 108      20.879  33.641  25.251  1.00 12.00           C
+HETATM   14  C15 FK5 A 108      21.566  34.517  24.194  1.00 12.33           C
+HETATM   15  C16 FK5 A 108      22.406  33.682  23.214  1.00  5.75           C
+HETATM   16  C17 FK5 A 108      22.926  34.397  21.940  1.00  8.64           C
+HETATM   17  C18 FK5 A 108      24.321  34.971  22.243  1.00  9.46           C
+HETATM   18  C19 FK5 A 108      25.408  33.947  22.060  1.00  6.54           C
+HETATM   19  C20 FK5 A 108      25.899  33.336  23.130  1.00  6.69           C
+HETATM   20  C21 FK5 A 108      26.951  32.237  23.120  1.00  7.96           C
+HETATM   21  C22 FK5 A 108      26.218  30.910  23.254  1.00  8.87           C
+HETATM   22  C23 FK5 A 108      25.840  30.225  21.947  1.00  8.14           C
+HETATM   23  C24 FK5 A 108      24.769  29.174  22.098  1.00  8.29           C
+HETATM   24  C25 FK5 A 108      23.324  29.818  22.186  1.00  6.53           C
+HETATM   25  C26 FK5 A 108      22.261  28.687  22.383  1.00  6.79           C
+HETATM   26  C27 FK5 A 108      22.570  27.848  23.620  1.00 10.16           C
+HETATM   27  C28 FK5 A 108      22.881  26.576  23.404  1.00 10.17           C
+HETATM   28  C29 FK5 A 108      23.321  25.611  24.474  1.00  8.79           C
+HETATM   29  C30 FK5 A 108      22.438  24.356  24.477  1.00 18.80           C
+HETATM   30  C31 FK5 A 108      22.975  23.133  25.206  1.00 14.73           C
+HETATM   31  C32 FK5 A 108      24.410  22.910  24.788  1.00 12.57           C
+HETATM   32  C33 FK5 A 108      25.235  24.158  25.032  1.00 10.69           C
+HETATM   33  C34 FK5 A 108      24.735  25.229  24.086  1.00  9.40           C
+HETATM   34  C35 FK5 A 108      18.523  30.823  27.459  1.00 10.49           C
+HETATM   35  C36 FK5 A 108      21.996  35.541  21.502  1.00  8.84           C
+HETATM   36  C37 FK5 A 108      25.817  33.733  20.588  1.00  9.73           C
+HETATM   37  C38 FK5 A 108      27.951  32.440  24.303  1.00 10.61           C
+HETATM   38  C39 FK5 A 108      29.006  31.351  24.563  1.00 16.82           C
+HETATM   39  C40 FK5 A 108      29.752  30.769  23.642  1.00 18.51           C
+HETATM   40  C41 FK5 A 108      22.972  30.605  20.888  1.00  6.69           C
+HETATM   41  C42 FK5 A 108      22.499  28.517  25.001  1.00 12.65           C
+HETATM   42  C43 FK5 A 108      24.048  32.094  26.508  1.00 11.31           C
+HETATM   43  C44 FK5 A 108      21.649  36.654  25.316  1.00 11.42           C
+HETATM   44  C45 FK5 A 108      21.177  21.679  25.923  1.00 18.41           C
+HETATM   45  N7  FK5 A 108      18.477  30.555  22.581  1.00  5.38           N
+HETATM   46  O1  FK5 A 108      20.924  29.273  22.460  1.00  5.64           O
+HETATM   47  O2  FK5 A 108      20.122  27.647  21.071  1.00  8.83           O
+HETATM   48  O3  FK5 A 108      17.458  29.628  24.376  1.00  9.03           O
+HETATM   49  O4  FK5 A 108      16.719  32.625  24.281  1.00 10.05           O
+HETATM   50  O5  FK5 A 108      19.773  33.000  24.604  1.00  8.02           O
+HETATM   51  O6  FK5 A 108      18.330  33.425  26.371  1.00  6.63           O
+HETATM   52  O7  FK5 A 108      22.913  32.990  26.524  1.00 10.12           O
+HETATM   53  O8  FK5 A 108      22.375  35.486  24.880  1.00 10.91           O
+HETATM   54  O9  FK5 A 108      25.931  30.441  24.364  1.00 10.36           O
+HETATM   55  O10 FK5 A 108      24.845  28.287  20.973  1.00 16.99           O
+HETATM   56  O11 FK5 A 108      22.231  21.923  24.979  1.00 15.29           O
+HETATM   57  O12 FK5 A 108      24.898  21.836  25.570  1.00 21.15           O
+HETATM    0 HO12 FK5 A 108      24.258  21.468  25.972  1.00 21.15           H   new
+HETATM    0 HO10 FK5 A 108      24.441  27.572  21.152  1.00 16.99           H   new
+HETATM    0 H453 FK5 A 108      21.551  21.614  26.816  1.00 18.41           H   new
+HETATM    0 H452 FK5 A 108      20.539  22.409  25.892  1.00 18.41           H   new
+HETATM    0 H451 FK5 A 108      20.728  20.849  25.700  1.00 18.41           H   new
+HETATM    0 H443 FK5 A 108      21.260  37.099  24.547  1.00 11.42           H   new
+HETATM    0 H442 FK5 A 108      20.943  36.388  25.926  1.00 11.42           H   new
+HETATM    0 H441 FK5 A 108      22.255  37.261  25.769  1.00 11.42           H   new
+HETATM    0 H433 FK5 A 108      23.821  31.276  26.978  1.00 11.31           H   new
+HETATM    0 H432 FK5 A 108      24.283  31.885  25.590  1.00 11.31           H   new
+HETATM    0 H431 FK5 A 108      24.802  32.519  26.945  1.00 11.31           H   new
+HETATM    0 H423 FK5 A 108      23.132  29.251  25.038  1.00 12.65           H   new
+HETATM    0 H422 FK5 A 108      21.602  28.855  25.151  1.00 12.65           H   new
+HETATM    0 H421 FK5 A 108      22.718  27.867  25.687  1.00 12.65           H   new
+HETATM    0 H413 FK5 A 108      23.618  31.316  20.755  1.00  6.69           H   new
+HETATM    0 H412 FK5 A 108      22.994  30.003  20.128  1.00  6.69           H   new
+HETATM    0 H411 FK5 A 108      22.084  30.987  20.971  1.00  6.69           H   new
+HETATM    0 H402 FK5 A 108      30.395  30.089  23.897  1.00 18.51           H   new
+HETATM    0 H401 FK5 A 108      29.657  31.022  22.710  1.00 18.51           H   new
+HETATM    0 H382 FK5 A 108      28.420  33.276  24.154  1.00 10.61           H   new
+HETATM    0 H381 FK5 A 108      27.431  32.547  25.115  1.00 10.61           H   new
+HETATM    0 H373 FK5 A 108      25.048  33.432  20.079  1.00  9.73           H   new
+HETATM    0 H372 FK5 A 108      26.142  34.568  20.218  1.00  9.73           H   new
+HETATM    0 H371 FK5 A 108      26.518  33.064  20.541  1.00  9.73           H   new
+HETATM    0 H363 FK5 A 108      21.114  35.186  21.311  1.00  8.84           H   new
+HETATM    0 H362 FK5 A 108      21.933  36.197  22.213  1.00  8.84           H   new
+HETATM    0 H361 FK5 A 108      22.354  35.962  20.705  1.00  8.84           H   new
+HETATM    0 H353 FK5 A 108      18.345  31.565  28.057  1.00 10.49           H   new
+HETATM    0 H352 FK5 A 108      17.687  30.499  27.089  1.00 10.49           H   new
+HETATM    0 H351 FK5 A 108      18.957  30.108  27.951  1.00 10.49           H   new
+HETATM    0 H342 FK5 A 108      24.755  24.904  23.172  1.00  9.40           H   new
+HETATM    0 H341 FK5 A 108      25.314  26.006  24.124  1.00  9.40           H   new
+HETATM    0 H332 FK5 A 108      25.148  24.449  25.953  1.00 10.69           H   new
+HETATM    0 H331 FK5 A 108      26.176  23.980  24.878  1.00 10.69           H   new
+HETATM    0 H32A FK5 A 108      18.067  28.524  20.072  1.00  5.00           H   new
+HETATM    0 H31A FK5 A 108      16.981  29.474  20.663  1.00  5.00           H   new
+HETATM    0 H302 FK5 A 108      21.583  24.590  24.871  1.00 18.80           H   new
+HETATM    0 H301 FK5 A 108      22.267  24.106  23.556  1.00 18.80           H   new
+HETATM    0 H232 FK5 A 108      25.536  30.896  21.316  1.00  8.14           H   new
+HETATM    0 H231 FK5 A 108      26.632  29.815  21.566  1.00  8.14           H   new
+HETATM    0 H182 FK5 A 108      24.491  35.728  21.661  1.00  9.46           H   new
+HETATM    0 H181 FK5 A 108      24.342  35.303  23.154  1.00  9.46           H   new
+HETATM    0 H162 FK5 A 108      23.172  33.332  23.696  1.00  5.75           H   new
+HETATM    0 H161 FK5 A 108      21.874  32.920  22.935  1.00  5.75           H   new
+HETATM    0 H122 FK5 A 108      20.601  32.345  27.651  1.00  8.60           H   new
+HETATM    0 H121 FK5 A 108      21.240  30.977  27.261  1.00  8.60           H   new
+HETATM    0  HO6 FK5 A 108      17.545  33.631  26.155  1.00  6.63           H   new
+HETATM    0  H62 FK5 A 108      19.935  31.639  21.680  1.00  5.93           H   new
+HETATM    0  H61 FK5 A 108      18.838  32.535  22.333  1.00  5.93           H   new
+HETATM    0  H52 FK5 A 108      18.589  32.566  19.975  1.00  5.95           H   new
+HETATM    0  H51 FK5 A 108      17.310  31.952  20.623  1.00  5.95           H   new
+HETATM    0  H42 FK5 A 108      19.469  30.382  19.632  1.00  6.48           H   new
+HETATM    0  H41 FK5 A 108      18.112  30.539  18.878  1.00  6.48           H   new
+HETATM    0  H39 FK5 A 108      29.134  31.068  25.482  1.00 16.82           H   new
+HETATM    0  H32 FK5 A 108      24.468  22.707  23.841  1.00 12.57           H   new
+HETATM    0  H31 FK5 A 108      22.893  23.325  26.153  1.00 14.73           H   new
+HETATM    0  H29 FK5 A 108      23.261  26.005  25.358  1.00  8.79           H   new
+HETATM    0  H28 FK5 A 108      22.821  26.245  22.494  1.00 10.17           H   new
+HETATM    0  H26 FK5 A 108      22.295  28.091  21.618  1.00  6.79           H   new
+HETATM    0  H25 FK5 A 108      23.317  30.432  22.937  1.00  6.53           H   new
+HETATM    0  H24 FK5 A 108      24.918  28.690  22.925  1.00  8.29           H   new
+HETATM    0  H21 FK5 A 108      27.465  32.256  22.298  1.00  7.96           H   new
+HETATM    0  H20 FK5 A 108      25.558  33.614  23.994  1.00  6.69           H   new
+HETATM    0  H2  FK5 A 108      18.150  28.631  22.546  1.00  6.57           H   new
+HETATM    0  H17 FK5 A 108      22.959  33.751  21.217  1.00  8.64           H   new
+HETATM    0  H15 FK5 A 108      20.893  34.964  23.657  1.00 12.33           H   new
+HETATM    0  H14 FK5 A 108      20.678  34.256  25.974  1.00 12.00           H   new
+HETATM    0  H13 FK5 A 108      22.006  31.838  25.226  1.00 12.00           H   new
+HETATM    0  H11 FK5 A 108      19.565  30.533  25.734  1.00  7.95           H   new
+CONECT    1    2   46   47
+CONECT    2    1    3   45
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5   45
+CONECT    7    8   45   48
+CONECT    8    7    9   49
+CONECT    9    8   10   50   51
+CONECT   10    9   11   34
+CONECT   11   10   12
+CONECT   12   11   13   52
+CONECT   13   12   14   50
+CONECT   14   13   15   53
+CONECT   15   14   16
+CONECT   16   15   17   35
+CONECT   17   16   18
+CONECT   18   17   19   36
+CONECT   19   18   20
+CONECT   20   19   21   37
+CONECT   21   20   22   54
+CONECT   22   21   23
+CONECT   23   22   24   55
+CONECT   24   23   25   40
+CONECT   25   24   26   46
+CONECT   26   25   27   41
+CONECT   27   26   28
+CONECT   28   27   29   33
+CONECT   29   28   30
+CONECT   30   29   31   56
+CONECT   31   30   32   57
+CONECT   32   31   33
+CONECT   33   28   32
+CONECT   34   10
+CONECT   35   16
+CONECT   36   18
+CONECT   37   20   38
+CONECT   38   37   39
+CONECT   39   38
+CONECT   40   24
+CONECT   41   26
+CONECT   42   52
+CONECT   43   53
+CONECT   44   56
+CONECT   45    2    6    7
+CONECT   46    1   25
+CONECT   47    1
+CONECT   48    7
+CONECT   49    8
+CONECT   50    9   13
+CONECT   51    9
+CONECT   52   12   42
+CONECT   53   14   43
+CONECT   54   21
+CONECT   55   23
+CONECT   56   30   44
+CONECT   57   31
+END
